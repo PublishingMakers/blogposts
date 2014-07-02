@@ -15,7 +15,7 @@ We are delighted that our group was chosen by the Scholarly Communications Insti
 The members of the group are: [Would people kindly insert their preferred title?]
 Courtney Berger, Senior Editor & Editorial Department Manager, Duke University Press
 Rebecca Kennison
-John Martin
+John D. Martin III, Doctoral Fellow, School of Information and Library Science, University of North Carolina at Chapel Hill
 Sylvia Miller, Senior Program Manager, Consortium of Humanities Centers and Institutes
 David Phillips, 
 Chelcie Rowell, Digital Initiatives Librarian, Z. Smith Reynolds Library, Wake Forest University
