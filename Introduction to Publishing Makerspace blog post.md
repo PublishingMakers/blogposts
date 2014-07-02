@@ -13,9 +13,9 @@ To move from the metaphorical to the practical plane, we are starting out by dis
 We are delighted that our group was chosen by the Scholarly Communications Institute for a workshop next November.  In fact, we are so enthusiastic that we have already started a listserv, a Twitter hashtag, a GoogleDocs area, and a GitHub repository, although we have not had a chance to do much with them yet!  We also plan to start a shared zotero bibliography.  Our first official meeting was a GitHub tutorial given by group member John Martin.  We will report on that in a separate post.
 
 The members of the group are: [Would people kindly insert their preferred title?]
-Courtney Berger, Senior Editor & Editorial Department Manager, Duke University Press
-Rebecca Kennison
-John D. Martin III, Doctoral Fellow, School of Information and Library Science, University of North Carolina at Chapel Hill
-Sylvia Miller, Senior Program Manager, Consortium of Humanities Centers and Institutes
-David Phillips, 
-Chelcie Rowell, Digital Initiatives Librarian, Z. Smith Reynolds Library, Wake Forest University
+* Courtney Berger, Senior Editor & Editorial Department Manager, Duke University Press
+* Rebecca Kennison
+* John D. Martin III, Doctoral Fellow, School of Information and Library Science, University of North Carolina at Chapel Hill
+* Sylvia Miller, Senior Program Manager, Consortium of Humanities Centers and Institutes
+* David Phillips, 
+* Chelcie Rowell, Digital Initiatives Librarian, Z. Smith Reynolds Library, Wake Forest University
