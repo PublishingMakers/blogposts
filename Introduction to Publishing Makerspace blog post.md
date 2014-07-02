@@ -1,6 +1,6 @@
 Blog Post for SCI Website
 
-Publishing Makerspace
+**Publishing Makerspace**
 
 The Publishing Makerspace group is a cross-functional working group of 6 people who bring a range of skills and experiences to a creative discussion about what publishing is and what it can become.  We were inspired by the makerspaces that engineering departments, and increasingly libraries, are hosting in which participants use existing products, tools, and skills in creative new ways.  As they dismantle electronics and bend circuits, or use 3D printers create an object from a drawing, we are interested in how we might bend our various sets of skills and improve existing tools to redefine publishing in a more comprehensive and less segmented way than it is often defined today by many publishers, librarians, and scholars.  In this way we hope to respond to new forms of scholarship and perhaps devise useful and exciting new forms of publishing.
 
